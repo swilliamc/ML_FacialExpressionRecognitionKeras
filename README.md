@@ -71,8 +71,12 @@ This .zip file contains all the code and data used in the project. It includes t
 Project.zip
 
 Once you have downloaded and extracted Project.zip, make sure to install dependencies using pipenv with the provided Pipfile and execute all commands using pipenv. Also, please make sure to add the correct path to the video file in camera.py on line 11. Next, to install pipenv, the dependencies, and run the main.py file, execute the following commands from your terminal or command prompt, making sure to add the right paths where necessary:
+
 •	cd \path\to\Project\
+
 •	pip install pipenv
+
 •	pipenv install
+
 •	pipenv run python3 main.py
 
