@@ -2,6 +2,7 @@
 Machine Language Facial Expression Recognition with Keras
 
 Completed by Suhaimi William Chan
+
 Taught by:Snehan Kekre, Machine Learning Instructor
 
 About this Course
